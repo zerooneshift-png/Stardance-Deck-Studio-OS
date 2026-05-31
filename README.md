@@ -1,3 +1,4 @@
+<img width="1470" height="923" alt="Capture d’écran 2026-05-31 à 22 33 45" src="https://github.com/user-attachments/assets/a9652db9-4e40-410d-9d72-a6a9bc9bf008" />
 # 🌌 Stardance Deck Studio OS
 
 > A full-stack, multi-language simulation playground for designing custom macro pads and programmable stream decks entirely from code.
